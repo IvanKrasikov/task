@@ -1,2 +1,2 @@
 Krasikov Ivan
-Java
+java
